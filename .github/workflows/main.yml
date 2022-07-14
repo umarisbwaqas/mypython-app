@@ -2,7 +2,7 @@ name: AzureAPI
 
 env:
   container_registry: megdemo.azurecr.io
-  container_registry_name: azureapiflask.azurecr.io/azureapi/flask:latest
+  container_registry_name: megdemo.azurecr.io/mypython-app:latest
   resourceGroup: MegaAFI-AKS-RG
   appName: azureapiflask1992
 
