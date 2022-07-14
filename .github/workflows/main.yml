@@ -4,7 +4,7 @@ env:
   container_registry: megdemo.azurecr.io
   container_registry_name: megdemo.azurecr.io/mypython-app:latest
   resourceGroup: MegaAFI-AKS-RG
-  appName: azureapiflask1992
+  appName: azureapiplan
 
 on:
   push:
